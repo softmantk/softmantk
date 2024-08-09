@@ -10,7 +10,9 @@ I specialize in backend development, building scalable and high-performance syst
 *   ✉️  You can contact me at [nikhilcmanohar@gmail.com](mailto:nikhilcmanohar@gmail.com)
 *   🚀  I'm currently working on [Homelike](http://thehomelike.com/)
 *   🧠  I'm learning Setting up Homelab for personal use
-*   ⚡  I love playing FC-24### Skills
+*   ⚡  I love playing FC-24
+
+### Skills
 
 
 <p align="left">
